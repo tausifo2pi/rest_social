@@ -1,0 +1,4009 @@
+{"level":"error","message":"Failed to connect to database: MongoParseError: option poolsize is not supported","timestamp":"2023-03-24T23:23:12.065Z"}
+{"level":"error","message":"Failed to connect to database: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","timestamp":"2023-03-24T23:24:08.499Z"}
+{"level":"error","message":"Failed to connect to database: MongoParseError: option strictquery is not supported","timestamp":"2023-03-24T23:25:11.377Z"}
+{"level":"error","message":"Failed to connect to database: MongoParseError: option strictquery is not supported","timestamp":"2023-03-24T23:25:23.319Z"}
+{"level":"error","message":"Failed to connect to database: MongoParseError: option strictquery is not supported","timestamp":"2023-03-24T23:25:58.851Z"}
+{"level":"error","message":"Failed to connect to database: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","timestamp":"2023-03-24T23:26:48.979Z"}
+{"level":"error","message":"Failed to connect to database: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","timestamp":"2023-03-24T23:31:17.583Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-03-24T23:32:35.871Z"}
+{"level":"info","message":"Server is listening on port 5000...","timestamp":"2023-03-24T23:32:35.877Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-03-24T23:33:45.339Z"}
+{"level":"info","message":"Server is listening on port 5000...","timestamp":"2023-03-24T23:33:45.346Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-03-24T23:34:32.090Z"}
+{"level":"info","message":"Server is listening on port 5000...","timestamp":"2023-03-24T23:34:32.097Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-03-24T23:35:36.380Z"}
+{"level":"info","message":"Server is listening on port 5000...","timestamp":"2023-03-24T23:35:36.387Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-03-24T23:36:03.278Z"}
+{"level":"info","message":"Server is listening on port 5000...","timestamp":"2023-03-24T23:36:03.287Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-03-24T23:36:20.685Z"}
+{"level":"info","message":"Server is listening on port 5000...","timestamp":"2023-03-24T23:36:20.693Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-03-24T23:38:54.421Z"}
+{"level":"info","message":"Server is listening on port 5000...","timestamp":"2023-03-24T23:38:54.430Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-03-24T23:39:37.222Z"}
+{"level":"info","message":"Server is listening on port 5000...","timestamp":"2023-03-24T23:39:37.232Z"}
+[2023-03-24T23:41:19.616Z] [[32m[32minfo[32m[39m]     Connected to database
+[2023-03-24T23:41:19.625Z] [[32m[32minfo[32m[39m]     Server is listening on port 5000...
+2023-03-25 05:43:42 [info] Connected to database[33m
+
+2023-03-25 05:43:42 [info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] GET / 404 2.958 ms - 139[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m / 404 3.939 ms - 139[33m
+
+[info] [32mGET[0m /api/v1/public/user/login 404 1.288 ms - 163[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 404 0.651 ms - 164[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 404 3.616 ms - 164[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 404 2.648 ms - 164[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 404 4.772 ms - 164[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 404 3.288 ms - 164[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 500 8.385 ms - 150[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 10.320 ms - 1220[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 7.130 ms - 59[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 8.487 ms - 1130[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 7.106 ms - 1128[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 7.914 ms - 264[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 6.876 ms - 60[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 1.612 ms - 60[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 5.349 ms - 111[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] Failed to connect to database: Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.akefuac.mongodb.net[33m
+
+[error] Failed to connect to database: Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.akefuac.mongodb.net[33m
+
+[error] Failed to connect to database: Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.akefuac.mongodb.net[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 8.296 ms - 111[33m
+
+[error] ReferenceError: logger is not defined
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:33:9)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\station\pn\miniWall\node_modules\express\lib\router\index.js:326:13)
+    at C:\station\pn\miniWall\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\station\pn\miniWall\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\station\pn\miniWall\node_modules\express\lib\router\index.js:280:10)
+    at Immediate.<anonymous> (C:\station\pn\miniWall\node_modules\express\lib\router\index.js:646:15)
+    at process.processImmediate (node:internal/timers:477:21)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 4.735 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 12.333 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 12.097 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 7.162 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 111.075 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: fail
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:32:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 74.458 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: fail
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:32:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 95.599 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: fail
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:32:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 92.130 ms - 16[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: fail
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:32:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 63.436 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: fail
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:33:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 97.924 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: fail
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:33:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 100.422 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: fail
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:33:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 92.501 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: fail
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:33:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 95.953 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: fail
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:34:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 92.809 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 8.422 ms - 87[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 8.152 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 88.511 ms - 83[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 77.318 ms - 83[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 88.826 ms - 83[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 92.115 ms - 83[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] ReferenceError: Cannot access 'errors' before initialization
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:18:21)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\station\pn\miniWall\node_modules\express\lib\router\index.js:326:13)
+    at C:\station\pn\miniWall\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\station\pn\miniWall\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\station\pn\miniWall\node_modules\express\lib\router\index.js:280:10)
+    at Immediate.<anonymous> (C:\station\pn\miniWall\node_modules\express\lib\router\index.js:646:15)
+    at process.processImmediate (node:internal/timers:477:21)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 94.269 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 96.062 ms - 83[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 95.715 ms - 83[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 95.275 ms - 621[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 95.100 ms - 157[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 78.252 ms - 182[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 200 2323.724 ms - 188[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:40:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 2377.006 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:40:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 2207.081 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:40:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 438.576 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:38:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 432.158 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:37:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 470.593 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 2093.937 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 5.590 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 2874.436 ms - 194[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 4.586 ms - 111[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 2581.205 ms - 216[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 433.011 ms - 80[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 401 423.845 ms - 92[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 2054.439 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 426.663 ms - 195[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 2560.117 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 627.760 ms - 196[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 2194.876 ms - 79[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017[33m
+
+[error] Failed to connect to database: MongoParseError: mongodb+srv URI cannot have port number[33m
+
+[error] Failed to connect to database: MongoServerError: bad auth : Authentication failed.[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017[33m
+
+[error] Failed to connect to database: MongoParseError: option usecreateindex is not supported[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 404.188 ms - 79[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 2241.164 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 2023.813 ms - 196[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 391.152 ms - 79[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:35:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 95.115 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:35:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 93.175 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:35:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 77.109 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:35:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 95.246 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 2337.634 ms - 199[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 96.132 ms - 89[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 396.374 ms - 261[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.writeHead (node:_http_server:339:11)
+    at ServerResponse.writeHead (C:\station\pn\miniWall\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:330:8)
+    at write_ (node:_http_outgoing:907:9)
+    at ServerResponse.end (node:_http_outgoing:1015:5)
+    at ServerResponse.send (C:\station\pn\miniWall\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\station\pn\miniWall\node_modules\express\lib\response.js:278:15)
+    at module.exports (C:\station\pn\miniWall\middleware\errHandler.js:35:36)
+    at Layer.handle_error (C:\station\pn\miniWall\node_modules\express\lib\router\layer.js:71:5)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 80.493 ms - 16[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 500 81.801 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 437.185 ms - 261[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 403.733 ms - 261[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 2133.878 ms - 261[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 419.197 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 402.459 ms - 204[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 423.626 ms - 207[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 408.704 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 391.690 ms - 204[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] Failed to connect to database: Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.akefuac.mongodb.net[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 104.716 ms - 204[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 86.988 ms - 79[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 103.094 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 78.867 ms - 203[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 80.516 ms - 204[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 112.298 ms - 261[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 100.555 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 82.467 ms - 206[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 81.730 ms - 207[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/admin/profile 404 6.917 ms - 159[33m
+
+[info] [32mGET[0m /api/v1/user/profile 401 2.762 ms - 95[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 400 21.041 ms - 77[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 401 17.136 ms - 91[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 100.757 ms - 187[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 401 80.254 ms - 92[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 79.703 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 60.675 ms - 197[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 401 64.957 ms - 92[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 401 76.998 ms - 92[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 401 85.607 ms - 92[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 401 104.102 ms - 92[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 88.260 ms - 275[33m
+
+[info] [32mGET[0m /api/v1/user/profile 401 1.088 ms - 95[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 401 11.571 ms - 95[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 500 14.134 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 30.520 ms - 193[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 400 13.649 ms - 76[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 400 18.552 ms - 76[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 500 17.751 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 401 13.834 ms - 95[33m
+
+[error] SyntaxError: Expected ',' or '}' after property value in JSON at position 122
+    at JSON.parse (<anonymous>)
+    at parse (C:\station\pn\miniWall\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\station\pn\miniWall\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\station\pn\miniWall\node_modules\raw-body\index.js:231:16)
+    at done (C:\station\pn\miniWall\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\station\pn\miniWall\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:512:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 5.254 ms - 88[33m
+
+[error] SyntaxError: Expected double-quoted property name in JSON at position 32
+    at JSON.parse (<anonymous>)
+    at parse (C:\station\pn\miniWall\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\station\pn\miniWall\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\station\pn\miniWall\node_modules\raw-body\index.js:231:16)
+    at done (C:\station\pn\miniWall\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\station\pn\miniWall\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:512:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 400 100.024 ms - 157[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 20.232 ms - 271[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 500 32.929 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 400 18.950 ms - 76[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 99.663 ms - 195[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 400 6.455 ms - 76[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 500 18.449 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 500 33.551 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 36.088 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 26.955 ms - 262[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 6.696 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 30.840 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 33.272 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 30.825 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 26.766 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 25.837 ms - 262[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 8.147 ms - 262[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 6.734 ms - 262[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 4.479 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 26.633 ms - 262[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.020 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 29.808 ms - 619[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 500 28.107 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 27.544 ms - 619[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 17.723 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 30.863 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 27.360 ms - 262[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 22.322 ms - 188[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 30.960 ms - 180[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 500 32.074 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 27.665 ms - -[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.365 ms - -[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 25.942 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.241 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 4.580 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 7.497 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 3.877 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 3.497 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 3.456 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 4.154 ms - 180[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 22.368 ms - 180[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 30.687 ms - 180[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 500 33.918 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 27.439 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 9.388 ms - 179[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 6.653 ms - 179[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 6.109 ms - 179[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 22.020 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.276 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 8.021 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.414 ms - 180[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 28.812 ms - 180[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 24.678 ms - 180[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 26.194 ms - 180[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 27.008 ms - -[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 19.723 ms - 188[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 7.403 ms - 188[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.303 ms - 188[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 4.514 ms - 188[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 15.825 ms - 180[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user 200 31.915 ms - 11613[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 98.988 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 95.747 ms - 197[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 71.466 ms - 275[33m
+
+[info] [32mGET[0m /api/v1/user/user 200 7.999 ms - 193[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user 200 16.053 ms - 302[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 15.071 ms - 271[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 13.640 ms - 263[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 500 24.279 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 14.354 ms - 189[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 17.609 ms - 189[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 500 15.912 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 15.898 ms - 189[33m
+
+[info] [32mGET[0m /api/v1/user/user 200 5.123 ms - 308[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 108.747 ms - 198[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 80.892 ms - 199[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 79.472 ms - 202[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 78.827 ms - 201[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 79.459 ms - 203[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 78.083 ms - 202[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 78.848 ms - 198[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 81.347 ms - 194[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 76.888 ms - 196[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 74.096 ms - 199[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 62.109 ms - 196[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 84.335 ms - 196[33m
+
+[info] [32mGET[0m /api/v1/user/user 200 4.617 ms - 2501[33m
+
+[info] [32mGET[0m /api/v1/user/user 200 4.367 ms - 2501[33m
+
+[info] [32mGET[0m /api/v1/user/user 200 3.461 ms - 2501[33m
+
+[info] [32mGET[0m /api/v1/user/user 401 10.529 ms - 95[33m
+
+[info] [32mGET[0m /api/v1/user/user 200 3.777 ms - 2501[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1 200 5.746 ms - 2502[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=SD 200 3.769 ms - 2495[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=email 200 3.942 ms - 2498[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=password 200 3.991 ms - 2501[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=firstName 200 4.951 ms - 2502[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=1&sortBy=firstName 200 3.588 ms - 2501[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=firstName 200 3.391 ms - 2502[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=updatedAt 200 3.015 ms - 2502[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=lastName 200 3.334 ms - 2501[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=1&sortBy=lastName 200 3.455 ms - 2500[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=lastName&email=admin@miniwall.com 200 5.811 ms - 308[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=lastName&email=adminminiwall.com 200 2.615 ms - 22[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=lastName&email=adminminiwall.com 500 14.763 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=lastName&email=adminminiwall.com 200 11.513 ms - 113[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=email&email=adminminiwall.com 200 7.585 ms - 110[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=email 200 7.843 ms - 2498[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=1&sortBy=email 200 3.604 ms - 2497[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=&sortBy=email 200 3.279 ms - 2498[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=1&sortBy=email 200 4.326 ms - 2497[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=email 200 4.123 ms - 2498[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1ddd&sortBy=email&limit=10 200 7.471 ms - 1954[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1ddd&sortBy=email&limit=10&page=2 200 4.330 ms - 667[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1ddd&sortBy=email&limit=10&page=3 200 4.297 ms - 125[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1ddd&sortBy=email&limit=10&page=1 200 14.482 ms - 1954[33m
+
+[info] [32mGET[0m /api/v1/user/user/641f713e8a8646b6eaef3fb7 200 4.869 ms - 197[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user/641f713e8a8646b6eaef3fb7 200 20.721 ms - 186[33m
+
+[info] [32mGET[0m /api/v1/user/user/641f713e8a8646b6eaef3f4d 200 5.553 ms - 4[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user/641f713e8a8646b6eaef3f4d 204 12.991 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/user/641f713e8a8646b6eaef3fb7 200 6.256 ms - 186[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 15.646 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 3.240 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 3.466 ms - 180[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 5.389 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 404 2.803 ms - 174[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 404 1.162 ms - 174[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 500 14.352 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 400 15.163 ms - 124[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 500 12.022 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 500 29.494 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 400 92.604 ms - 92[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 500 156.757 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 500 175.827 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 500 149.936 ms - 51[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 500 158.073 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 200 158.161 ms - 2[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 500 20.111 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 500 21.602 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 401 86.397 ms - 92[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 69.281 ms - 275[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 400 99.934 ms - 92[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 200 162.128 ms - 43[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.761 ms - 180[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/user?sortOrder=-1ddd&sortBy=email&limit=10&page=1 404 5.654 ms - 156[33m
+
+[info] [32mPOST[0m /api/v1/user/post 404 1.717 ms - 156[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 500 12.915 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 500 13.164 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 400 13.155 ms - 58[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 400 14.615 ms - 82[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1ddd&sortBy=email&limit=10&page=1 200 14.532 ms - 1954[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 500 14.198 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 20.459 ms - 32[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 18.174 ms - 32[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 500 13.862 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 32.224 ms - 290[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 400 45.875 ms - 125[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 12.873 ms - 222[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 8.454 ms - 222[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 82.461 ms - 192[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 71.844 ms - 268[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 7.766 ms - 222[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 39.415 ms - 222[33m
+
+[info] [32mGET[0m /api/v1/user/post/ 200 7.817 ms - 940[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1 200 3.515 ms - 940[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1 200 17.413 ms - 940[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1 200 13.933 ms - 940[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1 200 19.540 ms - 940[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 18.805 ms - 940[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 20.525 ms - 940[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 25.789 ms - 1874[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 16.982 ms - 1842[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 29.222 ms - 1546[33m
+
+[info] [32mGET[0m /api/v1/user/post/ 200 8.572 ms - 940[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=email&limit=10&page=1 200 5.067 ms - 1934[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&limit=10&page=1 200 3.002 ms - 1946[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 9.092 ms - 1546[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 19.847 ms - 102[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 19.937 ms - 1546[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 19.826 ms - 1546[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 17.932 ms - 102[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 21.652 ms - 1546[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 7.464 ms - 1546[33m
+
+[info] [32mGET[0m /api/v1/user/post/ 200 7.821 ms - 940[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1 200 6.887 ms - 1546[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1&limit=1 200 5.109 ms - 475[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1&limit=1 200 6.252 ms - 475[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1&limit=1 200 6.315 ms - 475[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1&limit=1 200 5.350 ms - 475[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1&limit=1 200 6.288 ms - 475[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1&limit=4 200 6.638 ms - 1545[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1&limit=5 200 6.120 ms - 1545[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1&limit=2 200 7.267 ms - 835[33m
+
+[info] [32mGET[0m /api/v1/user/post/?user=1&limit=1 200 5.675 ms - 475[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&limit=1 200 18.390 ms - 475[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 500 14.601 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 24.490 ms - 175[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&limit=10&page=1 200 9.877 ms - 1946[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&email=adminminiwall.com&limit=10&page=1 200 7.756 ms - 114[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&email=adminminiwall.com&limit=10&page=1 200 18.185 ms - 32[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&email=admin@miniwall.com&limit=10&page=1 200 7.745 ms - 309[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&email=Admin@miniwall.com&limit=10&page=1 200 5.804 ms - 32[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&email=admin@miniwall.com&limit=10&page=1 200 3.936 ms - 309[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 200 20.899 ms - 175[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 200 17.492 ms - 175[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 200 18.200 ms - 175[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 200 25.315 ms - 175[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 200 18.199 ms - 175[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 204 20.484 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 204 6.820 ms - -[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 204 17.091 ms - -[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 200 17.989 ms - 529[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 200 19.936 ms - 30[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 500 24.264 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 500 24.910 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 200 24.692 ms - 544[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 200 8.668 ms - 529[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&email=admin@miniwall.com&limit=10&page=1 200 8.393 ms - 309[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&page=1 200 4.477 ms - 2678[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&page=1&count-posts=1 200 7.733 ms - 2888[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&page=1&count-posts=1&get-posts 200 6.793 ms - 2888[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&page=1&count-posts=1&get-posts=1 200 7.351 ms - 3728[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 200 22.806 ms - 544[33m
+
+[info] [32mGET[0m /api/v1/user/post/641f925b3147ead207259ae3 200 7.126 ms - 205[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f925b3147ead207259ae3 500 4.578 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f925b3147ead207259ae3 200 20.362 ms - 205[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f925b3147ead207259ae3 200 4.089 ms - 211[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f925b3147ead20759ae3 500 7.570 ms - 51[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f925b3147ead207259ae3 200 3.675 ms - 211[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 400 67.717 ms - 125[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&limit=1 200 10.464 ms - 475[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 400 48.369 ms - 125[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 400 16.941 ms - 82[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 400 47.396 ms - 93[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 400 49.508 ms - 93[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 400 31.364 ms - 88[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 400 24.474 ms - 93[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 201 67.062 ms - 234[33m
+
+[info] [32mGET[0m /api/v1/user/comment/ 200 8.086 ms - 334[33m
+
+[info] [32mGET[0m /api/v1/user/comment/?get-user=1 200 4.689 ms - 483[33m
+
+[info] [32mGET[0m /api/v1/user/comment/?get-user=1&get-post=1 200 4.775 ms - 662[33m
+
+[info] [32mGET[0m /api/v1/user/comment/?get-user=1&get-post=1 200 6.929 ms - 662[33m
+
+[info] [32mPUT[0m /api/v1/user/comment/641fc0a8278abd18d0760b90 200 8.550 ms - 209[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1 200 7.425 ms - 1552[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f91fe3147ead207259ada 200 2.761 ms - 211[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f925b3147ead207259ae3 200 3.113 ms - 211[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 200 6.202 ms - 550[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f925b3147ead207259ae3 200 3.888 ms - 211[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f92053147ead207259add 200 2.566 ms - 211[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f92053147ead207259add 200 22.251 ms - 211[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f92053147ead207259add 200 21.110 ms - 4[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f925b3147ead207259ae3 200 7.966 ms - 211[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f92053147ead207259add 400 32.087 ms - 75[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f92053147ead207259add 404 26.751 ms - 83[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 200 20.006 ms - 550[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1 200 9.750 ms - 739[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1 200 8.377 ms - 757[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 201 33.824 ms - 234[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 201 11.033 ms - 234[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 201 9.157 ms - 234[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1 200 6.289 ms - 1309[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 201 42.993 ms - 234[33m
+
+[info] [32mGET[0m /api/v1/user/comment/?get-user=1&get-post=1 200 10.629 ms - 2844[33m
+
+[info] [32mGET[0m /api/v1/user/comment/ 200 7.677 ms - 1198[33m
+
+[info] [32mGET[0m /api/v1/user/comment/641fc0a8278abd18d0760b90 200 4.526 ms - 209[33m
+
+[info] [32mGET[0m /api/v1/user/comment/641fc0a8278abd18d0760b90?get-user=1 200 4.374 ms - 209[33m
+
+[info] [32mGET[0m /api/v1/user/comment/?get-post=1 200 8.273 ms - 2099[33m
+
+[info] [32mGET[0m /api/v1/user/comment/?get-user=1&get-post=1 200 8.150 ms - 2844[33m
+
+[info] [32mGET[0m /api/v1/user/comment/641fc0a8278abd18d0760b90?get-user=1 200 7.609 ms - 209[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/comment/641fc0a8278abd18d0760b90?get-user=1 200 19.810 ms - 358[33m
+
+[info] [32mGET[0m /api/v1/user/comment/641fc0a8278abd18d0760b90?get-user=1&get-post 200 7.800 ms - 358[33m
+
+[info] [32mGET[0m /api/v1/user/comment/641fc0a8278abd18d0760b90?get-user=1&get-post=1 200 6.967 ms - 543[33m
+
+[info] [32mGET[0m /api/v1/user/comment/641fc0a8278abd18d0760b90?get-user=1&get-post=0 200 5.410 ms - 358[33m
+
+[info] [32mPOST[0m /api/v1/user/comment 201 34.722 ms - 234[33m
+
+[info] [32mPUT[0m /api/v1/user/comment/641fc0a8278abd18d0760b90 200 9.682 ms - 209[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&get-comments=1 200 8.837 ms - 1564[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&get-comments=1&sortBy=_id 200 16.423 ms - 1558[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1 200 5.648 ms - 1559[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&email=admin@miniwall.com&limit=10&page=1&count-posts=1&get-posts=1 200 8.365 ms - 690[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&limit=10&page=1&count-posts=1&get-posts=1 200 8.835 ms - 2555[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=1&sortBy=createdAt&limit=10&page=1&count-posts=1&get-posts=1 200 11.080 ms - 2573[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=createdAt&limit=10&page=1&count-posts=1&get-posts=1 200 8.704 ms - 2555[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countPosts&limit=10&page=1&count-posts=1&get-posts=1 500 12.899 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countPosts&limit=10&page=1&count-posts=1&get-posts=1 500 30.514 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countPosts&limit=10&page=1&count-posts=1&get-posts=1 200 22.942 ms - 2914[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=1&sortBy=countPosts&limit=10&page=1&count-posts=1&get-posts=1 200 12.364 ms - 2221[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=1&sortBy=countPosts&limit=10&page=2&count-posts=1&get-posts=1 200 10.285 ms - 1654[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countPosts&email=admin@miniwall.com&limit=10&page=2&count-posts=1&get-posts=1 200 9.313 ms - 130[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countPosts&limit=10&page=2&count-posts=1&get-posts=1 200 10.790 ms - 957[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countPosts&limit=10&page=1&count-posts=1&get-posts=1 200 12.408 ms - 2914[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countPosts&limit=10&page=1&count-posts=1 200 8.736 ms - 2100[33m
+
+[info] [32mGET[0m /api/v1/user/comment/ 200 7.652 ms - 1416[33m
+
+[info] [32mGET[0m /api/v1/user/comment/?get-user=1 200 8.111 ms - 2310[33m
+
+[info] [32mGET[0m /api/v1/user/comment/?get-user=1&get-post=1 200 6.923 ms - 3390[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 400 43.375 ms - 89[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 201 23.314 ms - 197[33m
+
+[info] [32mGET[0m /api/v1/user/likes/?get-user=1&get-post=1 200 8.705 ms - 625[33m
+
+[info] [32mGET[0m /api/v1/user/likes/64207a9dc659f07b6f15f91d?get-user=1&get-post=1 200 7.435 ms - 508[33m
+
+[info] [32mGET[0m /api/v1/user/likes/64207a9dc659f07b6f15f91d?get-user=1&get-post=1 200 8.219 ms - 508[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 98.758 ms - 192[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 67.207 ms - 196[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 77.535 ms - 268[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 20.277 ms - 222[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 201 41.098 ms - 197[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 93.673 ms - 273[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 201 19.166 ms - 197[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 400 29.149 ms - 110[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 20.911 ms - 222[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 201 18.532 ms - 197[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 37.837 ms - 222[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 201 18.108 ms - 197[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 38.100 ms - 222[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 400 18.127 ms - 103[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 403 36.658 ms - 96[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1 200 18.197 ms - 752[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1&count-likes=1 200 7.570 ms - 767[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countPosts&limit=10&page=1&count-posts=1&get-likes=1 200 14.984 ms - 1123[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&get-likes=1 200 9.003 ms - 1123[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1 200 9.827 ms - 545[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 113.842 ms - 79[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 17.334 ms - 179[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 200 6.152 ms - 705[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 200 5.174 ms - 720[33m
+
+[info] [32mPUT[0m /api/v1/user/post/641f92053147ead207259add 404 19.895 ms - 83[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 400 17.998 ms - 76[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 400 19.908 ms - 76[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 400 28.691 ms - 76[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 204 51.643 ms - -[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 204 34.678 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 204 11.363 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1 500 6.697 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1 200 20.682 ms - 480[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 5.934 ms - 21[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 106.221 ms - 196[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 91.223 ms - 273[33m
+
+[info] [32mPOST[0m /api/v1/user/post 500 14.493 ms - 51[33m
+
+[info] [32mPOST[0m /api/v1/user/post 500 8.766 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/post 500 25.191 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 500 22.310 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 400 30.102 ms - 88[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 400 32.666 ms - 88[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 400 11.606 ms - 88[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 500 22.186 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 500 22.403 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 500 25.223 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 400 35.914 ms - 88[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 22.448 ms - 222[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1 200 12.955 ms - 853[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 400 10.514 ms - 88[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 13.194 ms - 223[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 403 12.067 ms - 96[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1 200 6.862 ms - 853[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 201 10.723 ms - 197[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 200 15.661 ms - 21[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1 200 8.097 ms - 480[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 204 6.569 ms - -[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 98.568 ms - 196[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 78.260 ms - 273[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 200 33.952 ms - 21[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 113.459 ms - 196[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 92.392 ms - 273[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 76.420 ms - 82[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 200 53.327 ms - 37[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 401 20.662 ms - 87[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 104.251 ms - 196[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 75.277 ms - 273[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 204 47.158 ms - -[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 82.484 ms - 196[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 88.589 ms - 273[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 200 21.752 ms - 205[33m
+
+[info] [32mPOST[0m /api/v1/user/post 201 9.865 ms - 222[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 12.946 ms - 223[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 403 18.376 ms - 96[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 9.022 ms - 655[33m
+
+[info] [32mGET[0m /api/v1/user/post/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1 200 10.049 ms - 853[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/64207d12c659f07b6f15f928 404 4.666 ms - 184[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/641f92053147ead207259add 404 28.626 ms - 83[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/64207d12c659f07b6f15f928 500 7.765 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/64207d12c659f07b6f15f928 404 28.579 ms - 69[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1 200 13.980 ms - 853[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&countComments=1 200 10.379 ms - 853[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1 200 31.080 ms - 889[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 30.892 ms - 223[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1 200 8.088 ms - 889[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1 200 28.408 ms - 889[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1 200 25.356 ms - 1234[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420b11859e7ce511a99c0b1 500 16.793 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1 200 32.941 ms - 1234[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420b11859e7ce511a99c0b1 204 28.929 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1 200 10.654 ms - 498[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 8.382 ms - 117[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 10.493 ms - 117[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 6.765 ms - 117[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 201 21.505 ms - 222[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 69.089 ms - 223[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 8.749 ms - 655[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420b391835ebca6a1cd1919 204 12.069 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 8.498 ms - 117[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 9.309 ms - 117[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 201 41.761 ms - 222[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 13.786 ms - 21[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 24.749 ms - 223[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420b43e76caa0697f8444c7 204 14.314 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 5.911 ms - 21[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1 200 24.647 ms - 498[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 27.251 ms - 223[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 10.105 ms - 655[33m
+
+[info] [32mDELETE[0m /api/v1/user/commets/64207d12c659f07b6f15f928 404 4.952 ms - 186[33m
+
+[info] [32mDELETE[0m /api/v1/user/comments/64207d12c659f07b6f15f928 404 9.525 ms - 79[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 14.503 ms - 223[33m
+
+[info] [32mDELETE[0m /api/v1/user/comments/6420b5df81ca723152a0c51a 500 9.526 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 35.734 ms - 1194[33m
+
+[info] [32mDELETE[0m /api/v1/user/comments/6420b5df81ca723152a0c51a 204 16.368 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 7.555 ms - 655[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 28.824 ms - 223[33m
+
+[info] [32mGET[0m /api/v1/user/comments/6420b61f24fdf8e34d70f075?get-user=1&get-post=1 200 6.597 ms - 538[33m
+
+[info] [32mDELETE[0m /api/v1/user/comments/6420b61f24fdf8e34d70f075 204 13.023 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/comments/6420b61f24fdf8e34d70f075?get-user=1&get-post=1 204 6.357 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/user?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1 404 5.866 ms - 155[33m
+
+[info] [32mGET[0m /api/v1/user/users?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1 200 7.478 ms - 545[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1 200 27.800 ms - 670[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 201 25.769 ms - 222[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1&count-likes=1 200 7.792 ms - 1091[33m
+
+[info] [32mGET[0m /api/v1/user/likes/?get-user=1&get-post=1 200 10.257 ms - 625[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 403 17.733 ms - 96[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 201 15.426 ms - 197[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1&count-likes=1 200 9.929 ms - 1091[33m
+
+[info] [32mGET[0m /api/v1/user/likes/?get-user=1&get-post=1 200 7.832 ms - 1138[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes 404 6.702 ms - 159[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/64207e06d280d2b637cd01eb 500 7.407 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/64207e06d280d2b637cd01eb 500 20.516 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/64207e06d280d2b637cd01eb 404 23.823 ms - 79[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/6420b7d5f724ae6441ed8025 204 20.725 ms - -[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/users 401 17.289 ms - 95[33m
+
+[info] [32mGET[0m /api/v1/public/user/login 404 4.174 ms - 163[33m
+
+[info] [32mGET[0m /api/v1/user/likes 401 7.261 ms - 95[33m
+
+[info] [32mGET[0m /api/v1/user/users?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1 200 22.753 ms - 545[33m
+
+[info] [32mGET[0m /api/v1/user/users?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1 200 10.334 ms - 1113[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/641f92053147ead207259add 404 17.556 ms - 83[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1&count-likes=1 200 10.021 ms - 1091[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420b75ff724ae6441ed8017 200 6.493 ms - 211[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1&count-likes=1 200 9.068 ms - 1097[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/64207d12c659f07b6f15f928 404 7.680 ms - 83[33m
+
+[info] [32mGET[0m /api/v1/user/users?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments 200 10.572 ms - 1119[33m
+
+[info] [32mGET[0m /api/v1/user/users?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1 200 7.735 ms - 1319[33m
+
+[info] [32mGET[0m /user/users 404 0.363 ms - 149[33m
+
+[info] [32mGET[0m /user/users 404 0.194 ms - 149[33m
+
+[info] [32mGET[0m /api/v1/user/users 200 9.985 ms - 483[33m
+
+[info] [32mGET[0m /api/v1/user/users?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1 200 9.168 ms - 1319[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 107.715 ms - 82[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 90.896 ms - 273[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 200 7.553 ms - 382[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.919 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 400 82.164 ms - 92[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 204 24.391 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/users?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1 401 5.560 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/users/641f713e8a8646b6eaef3fb7 401 5.015 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 401 6.060 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1&count-likes=1 401 5.450 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420b75ff724ae6441ed8017 401 5.791 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420b43e76caa0697f8444c7 401 6.470 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 401 7.391 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 401 4.807 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/comments/6420b61f24fdf8e34d70f075?get-user=1&get-post=1 401 4.861 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/641fc0a8278abd18d0760b90 401 5.088 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 401 5.486 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 401 5.534 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/likes/?get-user=1&get-post=1 401 5.857 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/likes/64207a9dc659f07b6f15f91d?get-user=1&get-post=1 401 5.899 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/6420b7d5f724ae6441ed8025 401 5.985 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 201 68.576 ms - 196[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 79.078 ms - 82[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 82.444 ms - 82[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 78.273 ms - 273[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 401 5.901 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 401 6.349 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 401 4.760 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 401 5.175 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/users?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1 401 5.159 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/users/641f713e8a8646b6eaef3fb7 401 5.172 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 401 4.907 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1&count-likes=1 401 5.191 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420b75ff724ae6441ed8017 401 4.448 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420b43e76caa0697f8444c7 401 4.589 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 401 5.964 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 401 5.265 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/comments/6420b61f24fdf8e34d70f075?get-user=1&get-post=1 401 4.238 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/641fc0a8278abd18d0760b90 401 4.782 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 401 5.558 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 401 5.242 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/likes/?get-user=1&get-post=1 401 4.955 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/likes/64207a9dc659f07b6f15f91d?get-user=1&get-post=1 401 4.749 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/6420b7d5f724ae6441ed8025 401 5.224 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 409 65.719 ms - 82[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 62.369 ms - 273[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 401 4.621 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 401 5.476 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 401 4.514 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 401 5.611 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/users?sortOrder=-1&sortBy=countLikes&limit=10&page=1&count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1 401 5.086 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/users/641f713e8a8646b6eaef3fb7 401 5.147 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 401 4.478 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1&count-likes=1 401 5.099 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420b75ff724ae6441ed8017 401 5.702 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420b43e76caa0697f8444c7 401 5.116 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 401 4.317 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 401 5.052 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/comments/6420b61f24fdf8e34d70f075?get-user=1&get-post=1 401 5.174 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/641fc0a8278abd18d0760b90 401 5.105 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 401 5.084 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 401 4.928 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/likes/?get-user=1&get-post=1 401 4.414 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/likes/64207a9dc659f07b6f15f91d?get-user=1&get-post=1 401 5.716 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/6420b7d5f724ae6441ed8025 401 5.084 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/users 401 7.337 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 200 77.194 ms - 273[33m
+
+[info] [32mGET[0m /api/v1/user/users 200 4.764 ms - 483[33m
+
+[info] [32mGET[0m /api/v1/user/users?count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1 200 7.130 ms - 968[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/user/create 404 2.091 ms - 165[33m
+
+[info] [32mPOST[0m /api/v1/public/users/create 409 95.473 ms - 82[33m
+
+[error] SyntaxError: Expected double-quoted property name in JSON at position 82
+    at JSON.parse (<anonymous>)
+    at parse (C:\station\pn\miniWall\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\station\pn\miniWall\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\station\pn\miniWall\node_modules\raw-body\index.js:231:16)
+    at done (C:\station\pn\miniWall\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\station\pn\miniWall\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:512:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)[33m
+
+[info] [32mPOST[0m /api/v1/public/users/create 400 82.100 ms - 85[33m
+
+[error] SyntaxError: Bad control character in string literal in JSON at position 56
+    at JSON.parse (<anonymous>)
+    at parse (C:\station\pn\miniWall\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\station\pn\miniWall\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\station\pn\miniWall\node_modules\raw-body\index.js:231:16)
+    at done (C:\station\pn\miniWall\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\station\pn\miniWall\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:512:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)[33m
+
+[info] [32mPOST[0m /api/v1/public/user/login 404 0.816 ms - 164[33m
+
+[info] [32mPOST[0m /api/v1/public/users/login 400 6.002 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/public/users/login 200 88.132 ms - 273[33m
+
+[info] [32mPOST[0m /api/v1/public/users/create 201 79.594 ms - 193[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 15.467 ms - 179[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1&count-likes=1 200 8.841 ms - 252[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 201 9.278 ms - 222[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1&count-likes=1 200 7.315 ms - 423[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 12.617 ms - 223[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1&count-likes=1 200 10.649 ms - 595[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 13.425 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.707 ms - 176[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.020 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.951 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 5.053 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 400 84.725 ms - 92[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 200 133.407 ms - 43[33m
+
+[info] [32mGET[0m /api/v1/user/users?count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1&sortOrder=-1&sortBy=updatedAt&limit=10&page=1 200 10.802 ms - 1574[33m
+
+[info] [32mGET[0m /api/v1/user/users?email=admin@miniwall.com 200 7.795 ms - 308[33m
+
+[info] [32mGET[0m /api/v1/user/users?email=admin@miniwall.com?count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1&sortOrder=-1&sortBy=countPosts&limit=10&page=1 200 9.374 ms - 32[33m
+
+[info] [32mGET[0m /api/v1/user/users?count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1&sortOrder=-1&sortBy=countPosts&limit=10&page=1 200 7.599 ms - 1530[33m
+
+[info] [32mGET[0m /api/v1/user/users?count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1&sortOrder=-1&sortBy=countPosts&limit=10&page=1&count-posts=1 200 9.658 ms - 1575[33m
+
+[info] [32mGET[0m /api/v1/user/users?count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1&sortOrder=1&sortBy=countPosts&limit=10&page=1&count-posts=1 200 8.502 ms - 1574[33m
+
+[info] [32mGET[0m /api/v1/user/users/641f713e8a8646b6eaef3fb7 204 7.084 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/users/?count-posts=1&count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1&sortOrder=-1&sortBy=updatedAt&limit=10&page=1 200 7.986 ms - 1574[33m
+
+[info] [32mGET[0m /api/v1/user/users/6420df5b0b9a17c8988c2e35 204 5.789 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/users/6420df120b9a17c8988c2e2d 200 4.310 ms - 176[33m
+
+[info] [32mGET[0m /api/v1/user/users/6420df120b9a17c8988c2e2d?get-posts=1 200 4.823 ms - 176[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/users/6420df120b9a17c8988c2e2d?get-posts=1 200 29.389 ms - 187[33m
+
+[info] [32mGET[0m /api/v1/user/users/6420df120b9a17c8988c2e2d?get-posts=1&count-posts=1 200 10.944 ms - 202[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 400 36.279 ms - 125[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 201 17.169 ms - 222[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1&count-likes=1 200 10.342 ms - 1499[33m
+
+[info] [32mGET[0m /api/v1/user/posts?get-user=1&get-comments=1&sortBy=_id&sortOrder=-1&count-comments=1&count-likes=1 200 11.218 ms - 1499[33m
+
+[info] [32mGET[0m /api/v1/user/posts/ 200 5.923 ms - 734[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?_id=64207d12c659f07b6f15f928 200 8.324 ms - 734[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?_id=64207d12c659f07b6f15f928 200 23.418 ms - 322[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?user=64207d12c659f07b6f15f928 200 15.890 ms - 21[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?user=6420df120b9a17c8988c2e2d 200 8.918 ms - 21[33m
+
+[info] [32mGET[0m /api/v1/user/posts/ 200 7.247 ms - 734[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?user=64207ccec659f07b6f15f922 200 8.103 ms - 322[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?user=64207ccec659f07b6f15f922&get-user=1 200 5.996 ms - 471[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420b75ff724ae6441ed8017 404 16.179 ms - 83[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420e1ac47d082fbbbedfcfc 200 8.101 ms - 211[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420e1ac47d082fbbbcedfcfc 200 7.190 ms - 211[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420e1ac47d082fbbbcaedfcfc 200 7.856 ms - 211[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420e1ac47d082fbbbcaedfcfc 200 5.495 ms - 211[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420e1ac47d082fbbbcaedfcfc 200 4.684 ms - 211[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 201 23.240 ms - 222[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 10.323 ms - 223[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1fa9440f57d1a 200 5.488 ms - 209[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/641fc0a8278abd18d0760b90 404 8.067 ms - 83[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1fa9440f57d1a 200 7.212 ms - 209[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 201 6.702 ms - 222[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420e41f14e1fa9440f57d24 200 5.391 ms - 211[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420e41f14e1fa9440f57d24 200 8.909 ms - 200[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420e41f14e1fa9440f57d24s 400 10.253 ms - 76[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420e41f14e1fa9440f57d25 404 6.652 ms - 69[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420b43e76caa0697f8444c7 404 7.049 ms - 69[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420e41f14e1fa9440f57d24 204 11.709 ms - -[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 7.790 ms - 223[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 400 9.697 ms - 88[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 7.692 ms - 1745[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1&_id=6420df6b0b9a17c8988c2e3c 200 9.140 ms - 1745[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1&_id=6420df6b0b9a17c8988c2e3c 200 28.785 ms - 662[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1&_id=6420df5b0b9a17c8988c2e35 200 9.532 ms - 21[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1&user=6420df5b0b9a17c8988c2e35 200 8.544 ms - 21[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1&post=6420df5b0b9a17c8988c2e35 200 8.552 ms - 662[33m
+
+[info] [32mGET[0m /api/v1/user/comments/6420b61f24fdf8e34d70f075?get-user=1&get-post=1 204 8.706 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/comments/6420df6b0b9a17c8988c2e3c?get-user=1&get-post=1 200 6.489 ms - 545[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1fa9440f57d1a 200 12.016 ms - 209[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1fa9a440f57d1a 200 8.115 ms - 209[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1fa9440f57d1a 200 6.116 ms - 209[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1f9440f57d1a 200 7.155 ms - 209[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1fa9440f57d1a 200 6.144 ms - 209[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420e41f14e1fa9440f57d22 404 9.137 ms - 83[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1fa9440f57d1a 200 9.192 ms - 209[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1fa9440f57d1aa 200 6.321 ms - 209[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1fa9440f57d1a 200 7.062 ms - 209[33m
+
+[info] [32mDELETE[0m /api/v1/user/comments/6420e3d314e1fa9440f57d1a 204 11.169 ms - -[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/6420e3d314e1fa9440f57d1aa 200 5.654 ms - 209[33m
+
+[info] [32mDELETE[0m /api/v1/user/comments/6420df6b0b9a17c8988c2e3c 204 10.441 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1&post=6420df5b0b9a17c8988c2e35 200 5.712 ms - 21[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 5.769 ms - 656[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 201 24.408 ms - 197[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 201 8.914 ms - 222[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 403 13.987 ms - 96[33m
+
+[info] [32mGET[0m /api/v1/user/likes/?get-user=1&get-post=1 200 7.287 ms - 1139[33m
+
+[info] [32mGET[0m /api/v1/user/likes/?get-user=1&get-post=1&user=64207ccec659f07b6f15f922 200 8.623 ms - 1139[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mGET[0m /api/v1/user/likes/?get-user=1&get-post=1&user=64207ccec659f07b6f15f922 200 23.593 ms - 625[33m
+
+[info] [32mGET[0m /api/v1/user/likes/64207a9dc659f07b6f15f91d?get-user=1&get-post=1 204 9.891 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/likes/64207e06d280d2b637cd01eb?get-user=1&get-post=1 200 7.786 ms - 508[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/6420b7d5f724ae6441ed8025 404 10.065 ms - 79[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/64207e06d280d2b637cd01eb 404 7.556 ms - 79[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/64207e06d280d2b637cd01eb 404 7.516 ms - 79[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/64207e06d280d2b637cd01eb 404 7.123 ms - 79[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1&count-likes=1 200 8.476 ms - 1124[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/6420e686bd8c848dbf0cfc69 204 12.912 ms - -[33m
+
+[info] [32mPOST[0m /api/v1/public/users/create 409 164.530 ms - 82[33m
+
+[info] [32mPOST[0m /api/v1/public/users/login 401 78.772 ms - 92[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1&count-likes=1 200 7.322 ms - 1124[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 16.620 ms - 180[33m
+
+[info] [32mPUT[0m /api/v1/user/profile/update-password 400 68.959 ms - 92[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 204 23.123 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/users?count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1&sortOrder=-1&sortBy=countPosts&limit=10&page=1&count-posts=1 401 5.490 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/users/6420df120b9a17c8988c2e2d?get-posts=1&count-posts=1 401 5.194 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 401 6.450 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?user=64207ccec659f07b6f15f922&get-user=1 401 7.153 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/posts/6420e41f14e1fa9440f57d24 401 5.916 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/6420e41f14e1fa9440f57d24 401 5.116 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 401 5.460 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 401 5.709 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/comments/6420df6b0b9a17c8988c2e3c?get-user=1&get-post=1 401 5.223 ms - 87[33m
+
+[info] [32mPUT[0m /api/v1/user/comments/641fc0a8278abd18d0760b90 401 5.429 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/comments/6420df6b0b9a17c8988c2e3c 401 5.316 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 401 4.859 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/likes/?get-user=1&get-post=1 401 6.048 ms - 87[33m
+
+[info] [32mGET[0m /api/v1/user/likes/64207e06d280d2b637cd01eb?get-user=1&get-post=1 401 4.789 ms - 87[33m
+
+[info] [32mDELETE[0m /api/v1/user/likes/6420e686bd8c848dbf0cfc69 401 5.221 ms - 87[33m
+
+[info] [32mPOST[0m /api/v1/public/users/login 500 3.674 ms - 51[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/users/login 401 26.651 ms - 91[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[error] Failed to connect to database: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/users/create 201 410.131 ms - 193[33m
+
+[info] [32mPOST[0m /api/v1/public/users/create 409 620.942 ms - 82[33m
+
+[info] [32mPOST[0m /api/v1/public/users/login 401 2603.990 ms - 91[33m
+
+[info] [32mPOST[0m /api/v1/public/users/login 200 399.664 ms - 269[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1&count-likes=1 200 2442.994 ms - 249[33m
+
+[info] [32mPUT[0m /api/v1/user/profile 200 722.263 ms - 177[33m
+
+[error] Failed to connect to database: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.akefuac.mongodb.net[33m
+
+[error] Failed to connect to database: MongoParseError: Password contains unescaped characters[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] Connected to database[33m
+
+[info] Server is listening on port 5000...[33m
+
+[info] [32mPOST[0m /api/v1/public/users/create 201 189.184 ms - 198[33m
+
+[info] [32mPOST[0m /api/v1/public/users/login 200 173.542 ms - 276[33m
+
+[info] [32mPOST[0m /api/v1/public/users/login 401 116.477 ms - 91[33m
+
+[info] [32mGET[0m /api/v1/user/profile 200 782.348 ms - 181[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1 200 202.964 ms - 192[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 200 204.743 ms - 207[33m
+
+[info] [32mPOST[0m /api/v1/user/posts 201 933.862 ms - 222[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1 200 826.395 ms - 378[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1 200 229.124 ms - 392[33m
+
+[info] [32mGET[0m /api/v1/user/posts/ 200 768.919 ms - 322[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?_id=64207d12c659f07b6f15f928 200 197.196 ms - 21[33m
+
+[info] [32mGET[0m /api/v1/user/posts/?_id=64bdd0dd8e1b2992dfd6839a 200 197.442 ms - 322[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 409.250 ms - 223[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 201 396.610 ms - 223[33m
+
+[info] [32mPOST[0m /api/v1/user/comments 400 298.161 ms - 88[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1 200 819.938 ms - 737[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1 200 216.427 ms - 755[33m
+
+[info] [32mPOST[0m /api/v1/user/likes 403 969.259 ms - 96[33m
+
+[info] [32mGET[0m /api/v1/user/comments/ 200 878.450 ms - 530[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1 200 800.849 ms - 840[33m
+
+[info] [32mGET[0m /api/v1/user/comments/?get-user=1&get-post=1 200 223.449 ms - 1198[33m
+
+[info] [32mGET[0m /api/v1/user/comments/ 200 217.460 ms - 530[33m
+
+[info] [32mDELETE[0m /api/v1/user/posts/64bdd0dd8e1b2992dfd6839a 204 1190.011 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/comments/ 200 822.115 ms - 21[33m
+
+[info] [32mGET[0m /api/v1/user/profile?get-posts=1&count-posts=1&get-comments=1&count-comments=1 200 227.683 ms - 239[33m
+
+[info] [32mDELETE[0m /api/v1/user/profile 204 1427.032 ms - -[33m
+
+[info] [32mGET[0m /api/v1/user/users?count-likes=1&count-comments=1&get-posts=1&get-likes=1&get-comments=1&sortOrder=-1&sortBy=countPosts&limit=10&page=1&count-posts=1 401 113.142 ms - 87[33m
+
